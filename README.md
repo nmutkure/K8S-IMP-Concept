@@ -6,4 +6,5 @@
 
 ****K8S Architecture****
 
+  https://kubernetes.io/docs/concepts/overview/components/
   https://kubernetes.io/docs/concepts/architecture/
