@@ -5,4 +5,5 @@
   https://killercoda.com/playgrounds/scenario/kubernetes
 
 ****K8S Architecture****
-https://kubernetes.io/docs/concepts/architecture/
+
+  https://kubernetes.io/docs/concepts/architecture/
