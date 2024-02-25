@@ -28,10 +28,10 @@ Important features of COE
   - Deployment recreate method, rolling update, or canary methods 
 
   ****Kubernetes****
-  Go Lang language
-  Employer application developers.
-  Provide a standard development interface
-  Build on Module API code (Rancher used that to create an additional application to manage K8S)
+  - Go Lang language
+  - Employer application developers.
+  - Provide a standard development interface
+  - Build on Module API code (Rancher used that to create an additional application to manage K8S)
   
   
   
